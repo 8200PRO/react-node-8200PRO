@@ -25,7 +25,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            https://github.com/mattvukas/react-node-template
+            https:
           </a>
         </p>
         <div className="logo-box">
