@@ -21,7 +21,7 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://github.com/mattvukas/react-node-template"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
